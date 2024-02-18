@@ -16,7 +16,7 @@ export const Navbar = () => {
 						href='/'
 						className='btn btn-ghost text-xl'
 					>
-						Online Coach Connect
+						OCC
 					</Link>
 				</div>
 				<div className='navbar-center'>
